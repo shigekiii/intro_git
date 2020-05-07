@@ -5,5 +5,7 @@ git練習用
 ・git commit
 ・git rm
 ・git status
+・git diff
+
 
 
