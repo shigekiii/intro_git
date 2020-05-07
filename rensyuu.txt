@@ -1,1 +1,5 @@
 git練習用
+変更１
+
+・git add
+・git commit
